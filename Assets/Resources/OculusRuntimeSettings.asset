@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Oculus.VR::OVRRuntimeSettings
   handSkeletonVersion: 1
   colorSpace: 7
-  requestsVisualFaceTracking: 1
-  requestsAudioFaceTracking: 1
+  requestsVisualFaceTracking: 0
+  requestsAudioFaceTracking: 0
   enableFaceTrackingVisemesOutput: 0
   telemetryProjectGuid: 7eb0d29b-d70c-4b48-97fe-6acdc65e94e5
   bodyTrackingFidelity: 1
